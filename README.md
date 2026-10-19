@@ -2,10 +2,6 @@
 
 **[Open the Rosie estimator](https://probablysecure.github.io/Capstone-Project---Rosie-for-R.O.S.I./)**
 
-**Career Simulation 4**
-
-**Project type:** Solo project
-**Report date:** October 7, 2026
 
 ## Executive summary
 
